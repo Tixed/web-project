@@ -159,8 +159,12 @@ section{
 	display: inline-block;
 	height: 120px;
 	width: 120px;
+
 	line-height: 120px;
 	position: relative;
+}
+.img-responsive{
+	width: 100%;
 }
 .vira-card .vira-card-header .card-icon .fa{
 	margin-top: 45px;
